@@ -1,0 +1,26 @@
+{
+  "name": "TailWindLearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemmy344/TailWindLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jemmy344/TailWindLearning/issues"
+  },
+  "homepage": "https://github.com/jemmy344/TailWindLearning#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.4"
+  }
+}
